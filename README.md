@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hola mi nombre es Valeria Reyes Tapia, últimamente mi trabajo se ha enfocado en desarrollo de front-end como en el back-end, <br>pero siempre estoy dispuesta a aprender nuevas cosas.
-
-Sin duda lo que más me gusta es viajar y tener la posibilidad de aprender y<br>conocer de diferentes culturas y costumbres.<br>Mi hobbie fav. sin duda es el deporte. 
+Hi, I'm Valeria Reyes Tapia. I am currently a student of Computer Science at the Faculty of Sciences of the Unam, with special interest in FullStack web development.
 
 
 ## 🌐 Socials:
