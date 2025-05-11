@@ -52,14 +52,6 @@
 
 ---
 
-## ✨ Diseño Moderno
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/123456789-modern-design-placeholder.png" alt="Diseño Moderno" width="80%" />
-</p>
-
----
-
 ## 🛠️ Proyectos Interesantes
 
 💡 ¿Tienes ideas? ¡Colabora conmigo en mis proyectos!  
