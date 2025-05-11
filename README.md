@@ -3,6 +3,11 @@
   <em>Ingeniero en Computación | Facultad de Ciencias @ UNAM</em>
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/github/followers/ValeRT24?label=Seguidores&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/ValeRT24?label=Estrellas&style=social" alt="GitHub Stars">
+</div>
+
 ---
 
 ## 🚀 Tecnologías y Herramientas
@@ -28,13 +33,9 @@
 
 ## 🎯 Sobre mí
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/123456789-modern-design-placeholder.png" alt="Placeholder" width="80%" />
-</p>
-
-- 🧑‍🎓 **Estudiante apasionado** por resolver problemas complejos y aprender nuevas tecnologías.  
-- 💻 Interesado en **desarrollo web**, **aplicaciones móviles** y **análisis de datos**.  
-- 🌱 Siempre explorando **nuevas herramientas** y **tecnologías emergentes**.  
+🧑‍🎓 **Estudiante apasionado** por resolver problemas complejos y aprender nuevas tecnologías.  
+💻 Interesado en **desarrollo web**, **aplicaciones móviles** y **análisis de datos**.  
+🌱 Siempre explorando **nuevas herramientas** y **tecnologías emergentes**.  
 
 ---
 
@@ -48,6 +49,21 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
+
+---
+
+## ✨ Diseño Moderno
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/123456789-modern-design-placeholder.png" alt="Diseño Moderno" width="80%" />
+</p>
+
+---
+
+## 🛠️ Proyectos Interesantes
+
+💡 ¿Tienes ideas? ¡Colabora conmigo en mis proyectos!  
+🌟 No olvides dejar una estrella ⭐ en mis repositorios.
 
 ---
 
