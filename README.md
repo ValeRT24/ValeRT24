@@ -3,11 +3,6 @@
   <em>Ingeniero en Computación | Facultad de Ciencias @ UNAM</em>
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/ValeRT24?label=Seguidores&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/ValeRT24?label=Estrellas&style=social" alt="GitHub Stars">
-</div>
-
 ---
 
 ## 🚀 Tecnologías y Herramientas
@@ -50,13 +45,6 @@
   </a>
 </div>
 
----
-
-## ✨ Diseño Moderno
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/123456789-modern-design-placeholder.png" alt="Diseño Moderno" width="80%" />
-</p>
 
 ---
 
@@ -67,6 +55,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ValeRT24.ValeRT24" alt="Visitas al perfil">
-</div>
