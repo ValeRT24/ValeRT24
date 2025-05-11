@@ -13,11 +13,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 ---
@@ -40,23 +44,6 @@
 - 👨‍🎓 Estudiante apasionado por resolver problemas complejos y aprender nuevas tecnologías.
 - 💻 Interesado en desarrollo web, aplicaciones móviles y análisis de datos.
 - 🌱 Siempre explorando nuevas herramientas y tecnologías.
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValeRT24&show_icons=true&theme=radical" alt="Estadísticas de ValeRT24" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeRT24&layout=compact&theme=radical" alt="Lenguajes más usados" width="400"/>
-</p>
-
----
-
-## ✨ Proyectos Destacados
-
-- [🌐 Mi sitio web personal](#)
-- [📱 Aplicación móvil innovadora](#)
-- [📊 Herramienta de análisis de datos](#)
 
 ---
 
