@@ -3,8 +3,6 @@
   <em>Ingeniero en Computación | Facultad de Ciencias @ UNAM</em>
 </p>
 
-
-
 ---
 
 ## 🚀 Tecnologías y Herramientas
@@ -30,9 +28,13 @@
 
 ## 🎯 Sobre mí
 
-🧑‍🎓 **Estudiante apasionado** por resolver problemas complejos y aprender nuevas tecnologías.  
-💻 Interesado en **desarrollo web**, **aplicaciones móviles** y **análisis de datos**.  
-🌱 Siempre explorando **nuevas herramientas** y **tecnologías emergentes**.  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/123456789-modern-design-placeholder.png" alt="Placeholder" width="80%" />
+</p>
+
+- 🧑‍🎓 **Estudiante apasionado** por resolver problemas complejos y aprender nuevas tecnologías.  
+- 💻 Interesado en **desarrollo web**, **aplicaciones móviles** y **análisis de datos**.  
+- 🌱 Siempre explorando **nuevas herramientas** y **tecnologías emergentes**.  
 
 ---
 
@@ -49,7 +51,6 @@
 
 ---
 
-## 🛠️ Proyectos Interesantes
-
-💡 ¿Tienes ideas? ¡Colabora conmigo en mis proyectos!  
-🌟 No olvides dejar una estrella ⭐ en mis repositorios.
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ValeRT24.ValeRT24" alt="Visitas al perfil">
+</div>
