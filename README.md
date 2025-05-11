@@ -56,9 +56,3 @@
 
 💡 ¿Tienes ideas? ¡Colabora conmigo en mis proyectos!  
 🌟 No olvides dejar una estrella ⭐ en mis repositorios.
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ValeRT24.ValeRT24" alt="Visitas al perfil">
-</div>
