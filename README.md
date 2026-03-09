@@ -4,18 +4,18 @@
 
 ---
 
-# 🧠 About
+# 🧠 About Me
 
-Computer Science Engineer from **UNAM** focused on building **software systems that simplify complex processes through automation and scalable architecture**.
+I am **Valeria Reyes Tapia**, a Computer Science Engineer from **UNAM**, specialized in **designing, developing, and optimizing software systems** that transform complex workflows into **efficient digital solutions**.  
 
-My work usually combines:
+My experience spans:
 
-⚙️ automation systems  
-🌐 web platforms  
-🏗 infrastructure engineering  
-🔐 networking and system security  
+⚙️ Automation of business and operational processes  
+🌐 Full-stack web platforms, with user-centered interfaces  
+🏗 Infrastructure engineering and cloud deployment  
+🔐 Security, networking, and system hardening  
 
-I enjoy designing **digital systems that transform manual workflows into efficient automated solutions**.
+I enjoy **bridging the gap between manual processes and automated, scalable digital systems**, ensuring reliability and performance across every layer.
 
 ---
 
@@ -23,116 +23,109 @@ I enjoy designing **digital systems that transform manual workflows into efficie
 
 <div align="center">
 
-### Programming Languages
-
+### Programming & Scripting
 <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,php,haskell,bash" />
 
 ### Web Development
-
 <img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,html,css" />
 
 ### Databases
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
 
 ### Infrastructure & DevOps
-
 <img src="https://skillicons.dev/icons?i=docker,gcp,linux,nginx,git,github" />
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman" />
+### Tools & Productivity
+<img src="https://skillicons.dev/icons?i=figma,vscode,postman,sharepoint" />
 
 </div>
 
 ---
 
-# 🏗 Engineering Areas
+# 🏗 Engineering Experience
 
-<div align="center">
+I have contributed to multiple platforms, including **Comunica360**, building solutions that **integrate SharePoint, automate workflows, track user interactions, and provide analytics dashboards**.  
+
+Key areas:
 
 | Area | Focus |
 |-----|------|
-| 🌐 Full-Stack Systems | interactive web platforms |
-| ⚙️ Automation Systems | workflow automation & digital processes |
-| 🧩 Backend Engineering | APIs, services and system logic |
-| 🏗 Infrastructure | containerized services and deployments |
-| 🔐 Security & Networking | traffic monitoring and infrastructure hardening |
-| 📊 Data Systems | database design and integration |
-
-</div>
+| 🌐 Full-Stack Systems | interactive web platforms, SPA and responsive designs |
+| ⚙️ Automation Systems | workflows automation, process orchestration, SharePoint integration |
+| 🧩 Backend Engineering | APIs, microservices, backend services for web apps |
+| 🏗 Infrastructure | containerized deployments, cloud environments, CI/CD |
+| 🔐 Security & Networking | traffic monitoring, authentication, infrastructure hardening |
+| 📊 Data Systems | database architecture, analytics, logging & reporting |
 
 ---
 
 # 🎓 Thesis Work
 
-My thesis research focuses on **software systems designed to optimize digital workflows and infrastructure processes**.
+My thesis focuses on **software systems for optimizing digital workflows and infrastructure management**.  
 
-Topics explored in the research:
+Core topics:
 
-• system architecture design  
-• backend service orchestration  
-• workflow automation  
-• infrastructure optimization  
-• scalable digital systems  
+• System architecture design for scalability  
+• Backend orchestration and service integration  
+• Workflow automation for operational efficiency  
+• Cloud and on-prem infrastructure optimization  
+• Building **robust, maintainable digital systems**  
 
-The goal is building **efficient digital infrastructures that reduce operational complexity**.
+The goal is to **reduce operational complexity and enhance efficiency** in digital platforms.
 
 ---
 
 # 🚀 Current Engineering Focus
 
-Areas where I’m actively building and experimenting:
-
 | Focus | Description |
 |------|-------------|
-| Microservices | scalable system architectures |
-| Automation Tools | digital workflow optimization |
-| Web Platforms | interactive application systems |
-| Infrastructure | deployment and environment configuration |
+| Microservices | designing scalable, modular system architectures |
+| Automation Tools | creating scripts and applications to optimize workflow |
+| Web Platforms | developing interactive applications with responsive UX |
+| Infrastructure | automating deployments, container orchestration, CI/CD pipelines |
 
 ---
 
 # 🧪 Engineering Playground
 
-Technologies and ideas I experiment with regularly:
+Regularly experimenting with:
 
-⚡ backend services  
-⚡ automation scripts  
-⚡ infrastructure environments  
-⚡ UI interaction systems  
-⚡ architecture prototypes  
+⚡ Backend services and APIs  
+⚡ Automation scripts for data extraction and process monitoring  
+⚡ Infrastructure environments in cloud and on-premise setups  
+⚡ UI interaction prototypes for web platforms  
+⚡ Architecture concepts for scalable, maintainable systems  
 
-This is where **new ideas become future systems**.
+Where **ideas transform into functional systems**.
 
 ---
 
 # 📚 Currently Learning
 
-Exploring deeper concepts in:
+Deepening my expertise in:
 
-• distributed systems  
-• scalable backend architectures  
-• infrastructure security  
-• cloud deployment strategies  
-• performance optimization
+• Distributed systems and event-driven architectures  
+• Scalable backend frameworks  
+• Infrastructure security and compliance  
+• Cloud deployment strategies (GCP, container orchestration)  
+• Performance monitoring and optimization  
 
 ---
 
-# 🤝 Collaboration
+# 🤝 Collaboration & Contributions
 
-Interested in collaborating on:
+Open to collaborating on:
 
-🌐 web platforms  
-⚙️ automation systems  
-🏗 backend architecture  
-🐳 infrastructure engineering  
-🧠 system design  
+🌐 Web platforms and single-page applications  
+⚙️ Automation workflows and process integration  
+🏗 Backend architecture and microservices  
+🐳 Infrastructure deployment and orchestration  
+🧠 System design and digital transformation projects  
 
 ---
 
 <p align="center">
 
-✨ Building systems that turn complex workflows into simple digital experiences.
+✨ I build **systems that turn complex workflows into simple, user-friendly digital experiences**, leveraging automation, scalable architectures, and infrastructure optimization.
 
 </p>
