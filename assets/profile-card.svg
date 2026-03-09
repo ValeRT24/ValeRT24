@@ -1,1 +1,77 @@
 
+<svg width="1200" height="1600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+    .title { font: bold 60px 'Inter', sans-serif; fill: #0f172a; }
+    .subtitle { font: 30px 'Inter', sans-serif; fill: #334155; }
+    .section-title { font: bold 36px 'Inter', sans-serif; fill: #1e40af; }
+    .text { font: 24px 'Inter', sans-serif; fill: #475569; }
+    .skill { font: 20px 'Inter', sans-serif; fill: #1e3a8a; }
+    .badge { rx: 12; ry: 12; fill: #e0e7ff; }
+    .icon { width: 40px; height: 40px; }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="1600" fill="#f8fafc" rx="40" ry="40"/>
+
+  <!-- Header -->
+  <text x="600" y="100" text-anchor="middle" class="title">👋 ¡Hola! Soy ValeRT24</text>
+  <text x="600" y="160" text-anchor="middle" class="subtitle">Computer Science Engineer @ UNAM</text>
+
+  <!-- About -->
+  <text x="80" y="250" class="section-title">🧠 About</text>
+  <text x="80" y="300" class="text" width="1040">
+    Focused on building <tspan font-weight="bold">software systems that simplify complex processes</tspan> through automation and scalable architecture.
+  </text>
+  <text x="80" y="370" class="text">⚙️ Automation systems | 🌐 Web platforms | 🏗 Infrastructure | 🔐 Security</text>
+
+  <!-- Tech Stack -->
+  <text x="80" y="450" class="section-title">💻 Tech Stack</text>
+
+  <!-- Languages -->
+  <text x="80" y="500" class="skill">Programming:</text>
+  <image x="250" y="470" href="https://skillicons.dev/icons?i=python,java,js,c,cpp,php,bash" width="400" height="50"/>
+
+  <!-- Web -->
+  <text x="80" y="550" class="skill">Web:</text>
+  <image x="250" y="520" href="https://skillicons.dev/icons?i=react,angular,nodejs,django,html,css" width="400" height="50"/>
+
+  <!-- Databases -->
+  <text x="80" y="600" class="skill">Databases:</text>
+  <image x="250" y="570" href="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" width="400" height="50"/>
+
+  <!-- DevOps -->
+  <text x="80" y="650" class="skill">Infrastructure & DevOps:</text>
+  <image x="450" y="620" href="https://skillicons.dev/icons?i=docker,gcp,linux,nginx,git,github" width="400" height="50"/>
+
+  <!-- Tools -->
+  <text x="80" y="700" class="skill">Tools:</text>
+  <image x="250" y="670" href="https://skillicons.dev/icons?i=figma,vscode,postman" width="400" height="50"/>
+
+  <!-- Engineering Areas -->
+  <text x="80" y="780" class="section-title">🏗 Engineering Areas</text>
+  <text x="80" y="830" class="text">🌐 Full-Stack Systems | ⚙️ Automation | 🧩 Backend | 🏗 Infrastructure | 🔐 Security | 📊 Data</text>
+
+  <!-- Thesis -->
+  <text x="80" y="900" class="section-title">🎓 Thesis Work</text>
+  <text x="80" y="950" class="text">Software systems to optimize digital workflows and infrastructure processes.</text>
+
+  <!-- Current Focus -->
+  <text x="80" y="1030" class="section-title">🚀 Current Focus</text>
+  <text x="80" y="1080" class="text">Microservices, Automation Tools, Web Platforms, Infrastructure</text>
+
+  <!-- Playground -->
+  <text x="80" y="1160" class="section-title">🧪 Engineering Playground</text>
+  <text x="80" y="1210" class="text">Backend services, automation scripts, infrastructure environments, UI systems, architecture prototypes</text>
+
+  <!-- Learning -->
+  <text x="80" y="1290" class="section-title">📚 Currently Learning</text>
+  <text x="80" y="1340" class="text">Distributed systems, scalable backends, cloud deployment, infrastructure security, performance optimization</text>
+
+  <!-- Collaboration -->
+  <text x="80" y="1420" class="section-title">🤝 Collaboration</text>
+  <text x="80" y="1470" class="text">Web platforms, automation, backend architecture, infrastructure, system design</text>
+
+  <!-- Footer -->
+  <text x="600" y="1550" text-anchor="middle" class="subtitle">✨ Building systems that turn complex workflows into simple digital experiences.</text>
+</svg>
