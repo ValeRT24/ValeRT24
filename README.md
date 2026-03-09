@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hola, soy Valeria Reyes Tapia (ValeRT24)</h1>
 
 <p align="center">
+  <img src="./assets/banner.svg" width="100%" />
+</p>
+
+<p align="center">
 💻 Ingeniera en Computación | Facultad de Ciencias – UNAM  
 🚀 Software Developer | Automation | Web Engineering
 </p>
