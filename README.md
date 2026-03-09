@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-card.svg" width="100%" />
+<img src="./assets/banner.svg" width="100%" />
 </p>
 
 ---
@@ -21,24 +21,35 @@ I enjoy designing **digital systems that transform manual workflows into efficie
 
 # 💻 Tech Stack
 
+<div align="center">
+
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,php,bash" />
+
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,php,haskell,bash" />
 
 ### Web Development
+
 <img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,html,css" />
 
 ### Databases
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
 
 ### Infrastructure & DevOps
+
 <img src="https://skillicons.dev/icons?i=docker,gcp,linux,nginx,git,github" />
 
 ### Tools
+
 <img src="https://skillicons.dev/icons?i=figma,vscode,postman" />
+
+</div>
 
 ---
 
 # 🏗 Engineering Areas
+
+<div align="center">
 
 | Area | Focus |
 |-----|------|
@@ -48,6 +59,8 @@ I enjoy designing **digital systems that transform manual workflows into efficie
 | 🏗 Infrastructure | containerized services and deployments |
 | 🔐 Security & Networking | traffic monitoring and infrastructure hardening |
 | 📊 Data Systems | database design and integration |
+
+</div>
 
 ---
 
