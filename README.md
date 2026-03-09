@@ -28,10 +28,6 @@ I specialize in **designing, developing, and optimizing software systems** that 
 
 ---
 
----
-
----
-
 # 💻 Tech Stack
 
 <div align="center">
