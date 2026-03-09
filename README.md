@@ -75,7 +75,6 @@ I specialize in **designing, developing, and optimizing software systems** that 
 <div>
   <img src="https://skillicons.dev/icons?i=figma" width="48" /> 
   <img src="https://skillicons.dev/icons?i=vscode" width="48" /> 
-  <img src="https://skillicons.dev/icons?i=postman" width="48" /> 
   <img src="https://skillicons.dev/icons?i=sharepoint" width="48" />
 </div>
 
