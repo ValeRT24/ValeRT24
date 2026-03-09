@@ -1,125 +1,125 @@
-<h1 align="center">👋 Hola, soy Valeria Reyes Tapia (ValeRT24)</h1>
-
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" />
-</p>
-
-<p align="center">
-💻 Ingeniera en Computación | Facultad de Ciencias – UNAM  
-🚀 Software Developer | Automation | Web Engineering
-</p>
-
-<p align="center">
-<a href="https://github.com/ValeRT24">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Automation+%26+Web+Engineering;Building+Solutions+Through+Code;Always+Learning+New+Technologies" />
-</a>
+  <img src="./assets/profile-card.svg" width="100%" />
 </p>
 
 ---
 
-# 🧠 About Me
+# 🧠 About
 
-💡 Computer Engineering graduate from **UNAM** focused on building software solutions that automate processes and improve digital workflows.
+Computer Science Engineer from **UNAM** focused on building **software systems that simplify complex processes through automation and scalable architecture**.
 
-I enjoy working at the intersection of:
+My work usually combines:
 
-- ⚙️ **Automation & Process Optimization**
-- 🌐 **Web Application Development**
-- 📊 **Data Handling & System Integration**
-- 🧩 **Problem Solving through Software Engineering**
+⚙️ automation systems  
+🌐 web platforms  
+🏗 infrastructure engineering  
+🔐 networking and system security  
 
-I constantly explore new technologies and build projects that combine **engineering, design and functionality**.
+I enjoy designing **digital systems that transform manual workflows into efficient automated solutions**.
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,php,haskell" />
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,php,bash" />
 
 ### Web Development
-<img src="https://skillicons.dev/icons?i=react,angular,django,nodejs,html,css" />
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,html,css" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,docker,gcp,figma,vscode" />
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
 
-</div>
+### Infrastructure & DevOps
+<img src="https://skillicons.dev/icons?i=docker,gcp,linux,nginx,git,github" />
 
----
-
-# ⚙️ Engineering Interests
-
-🔹 Web Platforms & System Architecture  
-🔹 Workflow Automation  
-🔹 API Integration  
-🔹 Data Processing  
-🔹 Full Stack Development  
-🔹 UI/UX Prototyping  
+### Tools
+<img src="https://skillicons.dev/icons?i=figma,vscode,postman" />
 
 ---
 
-# 🧩 Selected Work
+# 🏗 Engineering Areas
 
-Some of the things you will find in my repositories:
-
-💻 **Web Platforms**
-- Full-stack web applications
-- interactive UI interfaces
-- data-driven platforms
-
-⚙️ **Automation Projects**
-- workflow automation
-- process integration
-- productivity tools
-
-📊 **Data & Backend**
-- data processing scripts
-- backend services
-- system integrations
-
-🎓 **Academic & Research Projects**
-- thesis development
-- algorithm implementations
-- experimental systems
+| Area | Focus |
+|-----|------|
+| 🌐 Full-Stack Systems | interactive web platforms |
+| ⚙️ Automation Systems | workflow automation & digital processes |
+| 🧩 Backend Engineering | APIs, services and system logic |
+| 🏗 Infrastructure | containerized services and deployments |
+| 🔐 Security & Networking | traffic monitoring and infrastructure hardening |
+| 📊 Data Systems | database design and integration |
 
 ---
 
-# 📈 GitHub Stats
+# 🎓 Thesis Work
+
+My thesis research focuses on **software systems designed to optimize digital workflows and infrastructure processes**.
+
+Topics explored in the research:
+
+• system architecture design  
+• backend service orchestration  
+• workflow automation  
+• infrastructure optimization  
+• scalable digital systems  
+
+The goal is building **efficient digital infrastructures that reduce operational complexity**.
+
+---
+
+# 🚀 Current Engineering Focus
+
+Areas where I’m actively building and experimenting:
+
+| Focus | Description |
+|------|-------------|
+| Microservices | scalable system architectures |
+| Automation Tools | digital workflow optimization |
+| Web Platforms | interactive application systems |
+| Infrastructure | deployment and environment configuration |
+
+---
+
+# 🧪 Engineering Playground
+
+Technologies and ideas I experiment with regularly:
+
+⚡ backend services  
+⚡ automation scripts  
+⚡ infrastructure environments  
+⚡ UI interaction systems  
+⚡ architecture prototypes  
+
+This is where **new ideas become future systems**.
+
+---
+
+# 📚 Currently Learning
+
+Exploring deeper concepts in:
+
+• distributed systems  
+• scalable backend architectures  
+• infrastructure security  
+• cloud deployment strategies  
+• performance optimization
+
+---
+
+# 🤝 Collaboration
+
+Interested in collaborating on:
+
+🌐 web platforms  
+⚙️ automation systems  
+🏗 backend architecture  
+🐳 infrastructure engineering  
+🧠 system design  
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ValeRT24&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeRT24&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+✨ Building systems that turn complex workflows into simple digital experiences.
 
-# 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/valert24/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:valert24@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.instagram.com/valrt24">
-<img src="https://img.shields.io/badge/Instagram-Social-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ⭐ If you like my projects
-
-Consider giving them a ⭐ on GitHub.  
-It helps support open-source work and collaboration.
-
-<p align="center">
-🚀 *Always building, always learning.*
 </p>
